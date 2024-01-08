@@ -1,4 +1,4 @@
-import { StringCase, ColorFormat } from "@supernovaio/export-helpers"
+import { pathCase, ColorFormat } from "@supernovaio/export-helpers"
 import { TokenType } from "@supernovaio/sdk-exporters"
 
 /**
@@ -18,7 +18,7 @@ export type ExporterConfiguration = {
   /** When enabled, values will use references to other tokens where applicable */
   useReferences: boolean
   /** Style of exported token names */
-  tokenNameStyle: StringCase
+  tokenNameStyle: pathCase
   /** Format of the exported colors */
   colorFormat: ColorFormat
   /** Max number of decimals in colors */
