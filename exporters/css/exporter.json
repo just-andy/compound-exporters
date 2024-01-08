@@ -1,10 +1,10 @@
 {
-    "id": "supernovaio.exporter-css",
+    "id": "compound.exporter-css",
     "name": "Tokens to CSS Exporter",
     "description": "Export your design system tokens into CSS variables and definitions.",
     "author": "Jiri Trecak",
     "organization": "Supernova.io",
-    "homepage": "https://supernova.io",
+    "homepage": "https://compound.phoenixgroup.com",
     "version": "2.0.0",
     "usesBrands": true,
     "usesThemes": true,

@@ -1,0 +1,14 @@
+{
+  "workspaceId": "14364",
+  "designSystemId": "16150",
+  "designSystemVersionId": "16475",
+  "brandId": "412dc43f-b79f-4a66-ab5d-51aa7be1cc08",
+  "themeId": null,
+  "exporterId": null,
+  "workspaceName": "Compound",
+  "designSystemName": "Compound",
+  "designSystemVersionName": "Shared draft",
+  "exporterName": "Don't apply theme",
+  "write_to": "~/Dcouments/Sites/Supernova",
+  "description": "Note to our fellow developers: Install Supernova integration from the VSCode marketplace and then our  Don't apply theme exporter will synchronize design data and generate appropriate code from the  Shared draft design system every time you request it through the extension interface, fully automatically."
+}
