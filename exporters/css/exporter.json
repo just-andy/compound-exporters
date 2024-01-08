@@ -1,17 +1,18 @@
 {
     "id": "compound.exporter-css",
-    "name": "Tokens to CSS Exporter",
+    "name": "Compound Tokens to CSS Exporter",
     "description": "Export your design system tokens into CSS variables and definitions.",
-    "author": "Jiri Trecak",
+    "author": "Andy Cetnarskyj",
     "organization": "Supernova.io",
     "homepage": "https://compound.phoenixgroup.com",
-    "version": "2.0.0",
+    "version": "1.0.0",
     "usesBrands": true,
     "usesThemes": true,
     "executable": "/dist/build.js",
     "engine": "latest",
     "tags": [
         "CSS",
-        "Tokens"
+        "Tokens",
+        "Custom Naming"
     ]
 }
